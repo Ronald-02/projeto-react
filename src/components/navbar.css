@@ -11,6 +11,10 @@
     align-items: center;
     gap: 0.5rem;
   }
+   nav#navbar ul li{
+    display: inline-block;
+    width: 50%;
+  }
   
   #navbar form {
     display: flex;
@@ -35,7 +39,14 @@
     cursor: pointer;
   }
   @media screen and (max-width:700px){
-    nav#navbar a{
-        font-size: larger;
+    nav#navbar ul li{
+      display: inline-block;
+      width: 50%;
     }
+    h2{
+      font-size:larger;
+  }
+  a{
+      font-size: small;
+  }
   }
