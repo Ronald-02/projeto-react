@@ -1,6 +1,6 @@
 # Projeto-react 
 ### Projeto React com JSON server
-## Criadores 
+## Desenvolvedores
 <table>
  <tr> 
  <td>Co-facilitador</td>
