@@ -10,8 +10,8 @@
  <td>Colaborador II</td>
  </tr>
  <tr>
- <td>Ronald</td>
- <td>Bryan</td>
- <td>Rannyelle</td>
- <td>Silvia</td>
- <td>Andrielly</td>
+ <td>Ronald Da Silva</td>
+ <td>Bryan Simões</td>
+ <td>Rannyelle Santos</td>
+ <td>Silvia De Souza</td>
+ <td>Andrielly Souza</td>
