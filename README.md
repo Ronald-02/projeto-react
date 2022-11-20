@@ -2,8 +2,7 @@
 
 <h1 id="Sobre" align="center">🎞️CineGo🎥</h1>
 
-![40ca77b3-d14e-4ecc-90f2-e7a3eb058182](https://user-images.githubusercontent.com/112560788/202897994-4e52cd53-7548-468b-9b32-f3761ecdd3ae.jpg)
-
+![5acdb89c-61d3-4050-9a7e-c815bd206498](https://user-images.githubusercontent.com/112560788/202926721-2d9d4194-75b1-4363-a556-79c61f49ae3d.jpg)
 
 
 
