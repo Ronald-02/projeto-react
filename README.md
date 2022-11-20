@@ -11,6 +11,19 @@
 
 ![bb0d2b0d-4061-46d5-a8b5-ae67d73ca134](https://user-images.githubusercontent.com/112560788/202927426-8d5e6237-76d8-42ac-a37e-86717ee1d1f1.jpg)
 
+
+
+
+
+
+<h1 id="Tec" align="center">Ferramentas</h1>
+<div align="center">
+
+![c1e42627-97ad-4da2-b58c-5b99648f8964](https://user-images.githubusercontent.com/112560788/202933633-414daf3e-7e0e-4ca6-8899-f51ccb3e9566.jpg)
+
+
+
+
 <br>
 <br>
 <h1 id="Tec" align="center">🖱️Responsabilidades e atribuições🖱️ </h1>
