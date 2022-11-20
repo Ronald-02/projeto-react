@@ -6,8 +6,11 @@
 
 
 
-## Desenvolvedores
-<table>
+
+<h1 id="Tec" align="center">🖥️Desenvolvedores🖥️</h1>
+<div align="center">
+  
+  <h1 id="Tec" align="center"><table>
  <tr> 
  <td>Co-facilitador</td>
  <td>Gestor de engajamento</td>
@@ -21,3 +24,6 @@
  <td>Rannyelle Santos</td>
  <td>Silvia De Souza</td>
  <td>Andrielly Souza</td>
+</h1>
+<div align="center">
+  
