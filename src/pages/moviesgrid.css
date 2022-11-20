@@ -20,12 +20,12 @@
   
   .movies-container div {
     width: 30%;
-    color: #000;
+    color: rgb(255, 255, 255);
     margin-bottom: 2.5rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: #be0d00;
+    background-color: rgba(0, 0, 0, 0.959);
     padding: 1rem;
   }
   
@@ -47,7 +47,7 @@
   }
   
   .movies-container div a {
-    background-color: #be0d00;
+    background-color: #bfd30e;
     border: 2px solid #fff;
     border-radius: 4px;
     color: #000;

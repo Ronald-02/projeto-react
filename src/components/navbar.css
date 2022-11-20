@@ -3,7 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background-color: #121212;
+    background-color: #000000;
   }
   
   #navbar h2 a {
@@ -28,8 +28,8 @@
   }
   
   #navbar form button {
-    background-color: #be0d00;
-    border: 2px solid #be0d00;
+    background-color: #f1ee09;
+    border: 2px solid #0f0100;
     border-radius: 4px;
     color: #000;
     padding: 0.3rem;
@@ -50,3 +50,5 @@
       font-size: small;
   }
   }
+
+  

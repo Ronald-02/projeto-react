@@ -25,20 +25,6 @@ const Navbar = () => {
         </Link>
       </h2>
      <nav id= "link">
-      <ul>
-        <li>
-          <Link to="Contato /">Contato</Link>
-        </li>
-        <li>
-          <Link to="Login /">Login</Link>
-        </li>
-        <li>
-          <Link to="Produtos /">Produtos</Link>
-        </li>
-        <li>
-          <Link to="Cinema /">Cinema</Link>
-        </li>
-        </ul>
       </nav>
       <form onSubmit={handleSubmit}>
         <input
