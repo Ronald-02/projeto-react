@@ -19,7 +19,7 @@ const Home = () => {
         console.log(topRatedUrl);
         getTopRatedMovies(topRatedUrl);
     }, []);
-
+    
     console.log(topMovies);
 
     return (
