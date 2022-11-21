@@ -58,7 +58,7 @@
   
   .movies-container div a:hover {
     background-color: transparent;
-    color: #fff;
+    color: rgba(171, 168, 168, 0.775);
   }
 
 
