@@ -42,7 +42,7 @@
  <td>Ronald Da Silva</td>
  <td>Bryan Simões</td>
  <td>Rannyelle Santos</td>
- <td>Silvia De Souza</td>
+ <td>Silvia Corrêa</td>
  <td>Andrielly Souza</td>
 </h1>
 <div align="center">
