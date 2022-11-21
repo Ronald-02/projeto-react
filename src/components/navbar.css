@@ -11,11 +11,7 @@
     align-items: center;
     gap: 0.5rem;
   }
-   nav#navbar ul li{
-    display: inline-block;
-    width: 50%;
-  }
-  
+
   #navbar form {
     display: flex;
     gap: 0.5rem;
